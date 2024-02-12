@@ -4,6 +4,6 @@
 
 
 O presente projeto, utilizado para fins de estudo, foi desenvolvido com o acompanhamento 
-de aulas da Hashtag Treinamentos: ![logo da hashtag](imagens/logo.png) 
+de aulas da Hashtag Treinamentos: ![logo da hashtag](assets/logo.png) 
 
 O projeto objetiva possibilitar a interação do usuário com as abas do cardápio (Pratos Principais, Sobremesas, Bebidas).
