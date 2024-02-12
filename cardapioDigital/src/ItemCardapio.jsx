@@ -1,4 +1,4 @@
-export function ItemCardapio(props) {
+gtexport function ItemCardapio(props) {
     return <div className="container-item-cardapio">
         <div>
             <h2>{props.nome}</h2>
